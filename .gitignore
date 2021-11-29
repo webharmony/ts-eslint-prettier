@@ -1,0 +1,8 @@
+node_modules
+dist
+cdk.out
+lambda/**/lib
+lambda/**/dist
+packages/**/lib
+layers
+.env
